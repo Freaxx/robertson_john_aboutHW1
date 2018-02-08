@@ -1,0 +1,37 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.hidden
+{
+	display: none;
+}
+
+#container
+{
+	margin: 0 auto;
+	width: 1000px;
+	background-color: white;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+#hero_image
+{
+	width: 1000px;
+}
+
+h2
+{
+	font-size: 24px;
+	font-family: Arial, sans-serif, Times;
+	padding-top: 20px;
+}
+
+p
+{
+	padding-top: 20px;
+	font-size: 18px;
+	font-family: 'Raleway', sans-serif;
+	word-spacing: 2px;
+	line-height: 30px;
+}
